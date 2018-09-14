@@ -1,0 +1,29 @@
+D:\C#VS2015\C#\net 课程\My Project\动画\动画\bin\Debug\动画.exe.config
+D:\C#VS2015\C#\net 课程\My Project\动画\动画\bin\Debug\动画.exe
+D:\C#VS2015\C#\net 课程\My Project\动画\动画\bin\Debug\动画.pdb
+D:\C#VS2015\C#\net 课程\My Project\动画\动画\obj\Debug\动画.csprojResolveAssemblyReference.cache
+D:\C#VS2015\C#\net 课程\My Project\动画\动画\obj\Debug\MainWindow.baml
+D:\C#VS2015\C#\net 课程\My Project\动画\动画\obj\Debug\MainWindow.g.cs
+D:\C#VS2015\C#\net 课程\My Project\动画\动画\obj\Debug\App.g.cs
+D:\C#VS2015\C#\net 课程\My Project\动画\动画\obj\Debug\动画_MarkupCompile.cache
+D:\C#VS2015\C#\net 课程\My Project\动画\动画\obj\Debug\动画.g.resources
+D:\C#VS2015\C#\net 课程\My Project\动画\动画\obj\Debug\动画.Properties.Resources.resources
+D:\C#VS2015\C#\net 课程\My Project\动画\动画\obj\Debug\动画.csproj.GenerateResource.Cache
+D:\C#VS2015\C#\net 课程\My Project\动画\动画\obj\Debug\动画.exe
+D:\C#VS2015\C#\net 课程\My Project\动画\动画\obj\Debug\动画.pdb
+C:\Users\常祈\Desktop\动画\动画\bin\Debug\动画.exe.config
+C:\Users\常祈\Desktop\动画\动画\obj\Debug\动画.exe
+C:\Users\常祈\Desktop\动画\动画\obj\Debug\动画.pdb
+C:\Users\常祈\Desktop\动画\动画\bin\Debug\动画.exe
+C:\Users\常祈\Desktop\动画\动画\bin\Debug\动画.pdb
+C:\Users\常祈\Desktop\动画\动画\obj\Debug\动画.csprojResolveAssemblyReference.cache
+C:\Users\常祈\Desktop\动画\动画\obj\Debug\MainWindow.baml
+C:\Users\常祈\Desktop\动画\动画\obj\Debug\MainWindow.g.cs
+C:\Users\常祈\Desktop\动画\动画\obj\Debug\App.g.cs
+C:\Users\常祈\Desktop\动画\动画\obj\Debug\动画_MarkupCompile.cache
+C:\Users\常祈\Desktop\动画\动画\obj\Debug\动画.g.resources
+C:\Users\常祈\Desktop\动画\动画\obj\Debug\动画.Properties.Resources.resources
+C:\Users\常祈\Desktop\动画\动画\obj\Debug\动画.csproj.GenerateResource.Cache
+D:\Myvs\倒影动画字母\动画\bin\Debug\动画.exe.config
+D:\Myvs\倒影动画字母\动画\obj\Debug\动画.exe
+D:\Myvs\倒影动画字母\动画\obj\Debug\动画.pdb

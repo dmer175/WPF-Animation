@@ -1,0 +1,12 @@
+C:\Users\常祈\Desktop\PartWPFModel\PartWPFModel\bin\Debug\PartWPFModel.exe
+C:\Users\常祈\Desktop\PartWPFModel\PartWPFModel\bin\Debug\PartWPFModel.pdb
+C:\Users\常祈\Desktop\PartWPFModel\PartWPFModel\obj\Debug\PartWPFModel.csprojResolveAssemblyReference.cache
+C:\Users\常祈\Desktop\PartWPFModel\PartWPFModel\obj\Debug\MainWindow.baml
+C:\Users\常祈\Desktop\PartWPFModel\PartWPFModel\obj\Debug\MainWindow.g.cs
+C:\Users\常祈\Desktop\PartWPFModel\PartWPFModel\obj\Debug\App.g.cs
+C:\Users\常祈\Desktop\PartWPFModel\PartWPFModel\obj\Debug\PartWPFModel_MarkupCompile.cache
+C:\Users\常祈\Desktop\PartWPFModel\PartWPFModel\obj\Debug\PartWPFModel.g.resources
+C:\Users\常祈\Desktop\PartWPFModel\PartWPFModel\obj\Debug\PartWPFModel.exe
+C:\Users\常祈\Desktop\PartWPFModel\PartWPFModel\obj\Debug\PartWPFModel.pdb
+D:\Myvs\镊子旋转动画\PartWPFModel\obj\Debug\PartWPFModel.exe
+D:\Myvs\镊子旋转动画\PartWPFModel\obj\Debug\PartWPFModel.pdb

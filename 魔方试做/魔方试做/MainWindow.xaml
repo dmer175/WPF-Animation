@@ -1,0 +1,21 @@
+﻿<Window x:Class="魔方试做.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Canvas Name="back">
+        <Button Content="Button"  Canvas.Left="208" Canvas.Top="84" Width="75" VerticalContentAlignment="Stretch" Height="30">
+            
+            
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    
+                    <Setter Property="CornerRadius" Value="10"></Setter>
+                </Style>
+                
+                
+            </Button.Resources>
+            
+        </Button>
+
+    </Canvas>
+</Window>

@@ -1,0 +1,36 @@
+﻿<Window x:Class="WPF_ImageShow.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:WPF_ImageShow"
+        Title="MainWindow" Height="600" Width="800" WindowState="Maximized">
+
+    <Grid >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Border x:Name="border"  Grid.Column="0"  Margin="50"  BorderThickness="3" BorderBrush="Black">
+            <Canvas  x:Name="canvas"  Width="{Binding ActualWidth,ElementName=border}" Height="{Binding ActualHeight,ElementName=border}"  >
+            </Canvas>
+        </Border>
+
+        <ListBox x:Name="lst"  Grid.Column="1" ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+            <ListBox.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <StackPanel Orientation="Vertical"/>
+                </ItemsPanelTemplate>
+            </ListBox.ItemsPanel>
+
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Border Focusable="False">
+                        <Image Source="{Binding ImageSource}" Tag="{Binding ImageIndex}"  Width="150" Height="150">
+                        </Image>
+                    </Border>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+
+        </ListBox>
+
+    </Grid>
+</Window>

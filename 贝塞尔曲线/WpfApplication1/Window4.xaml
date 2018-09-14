@@ -1,0 +1,38 @@
+﻿<Window x:Class="WpfApplication1.Window4"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Name="Window"
+        Title="Window4" Height="640" Width="480">
+    <Window.Resources>
+        <Storyboard x:Key="Timeline1" RepeatBehavior="Forever" AutoReverse="True">
+            <DoubleAnimationUsingPath BeginTime="00:00:00" Duration="00:00:02" Storyboard.TargetName="button" Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Source="X">
+                <DoubleAnimationUsingPath.PathGeometry>
+                    <PathGeometry Figures="M-68,149.00022 C-39.695816,109.3744 -17.383496,83.397528 39,74.000287 C73.433618,68.261356 91.198465,71.210009 125,89.000273 C157.86626,106.29829 181.01028,123.79991 204,155.00021 C213.7418,168.22121 224.03351,180.96708 234,194.00017 C246.07551,209.79121 257.36571,220.41957 275,231.00014 C285.57406,237.34456 295.83653,242.84775 307,248.00012 C317.8183,252.99318 324.46505,252.89547 337,252.00012 C362.92461,250.14836 384.46844,240.41978 404,225.00014"/>
+                </DoubleAnimationUsingPath.PathGeometry>
+            </DoubleAnimationUsingPath>
+            <DoubleAnimationUsingPath BeginTime="00:00:00" Duration="00:00:02" Storyboard.TargetName="button" Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Source="Y">
+                <DoubleAnimationUsingPath.PathGeometry>
+                    <PathGeometry Figures="M-68,149.00022 C-39.695816,109.3744 -17.383496,83.397528 39,74.000287 C73.433618,68.261356 91.198465,71.210009 125,89.000273 C157.86626,106.29829 181.01028,123.79991 204,155.00021 C213.7418,168.22121 224.03351,180.96708 234,194.00017 C246.07551,209.79121 257.36571,220.41957 275,231.00014 C285.57406,237.34456 295.83653,242.84775 307,248.00012 C317.8183,252.99318 324.46505,252.89547 337,252.00012 C362.92461,250.14836 384.46844,240.41978 404,225.00014"/>
+                </DoubleAnimationUsingPath.PathGeometry>
+            </DoubleAnimationUsingPath>
+        </Storyboard>
+    </Window.Resources>
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard Storyboard="{StaticResource Timeline1}"/>
+        </EventTrigger>
+    </Window.Triggers>
+    <Grid x:Name="LayoutRoot">
+        <Path Fill="#FFFFFFFF" Stretch="Fill" Stroke="#FF000000" Margin="63.5,128.847,87.5,133.025" Data="M64,207 C92.304184,167.37414 114.6165,141.39725 171,132 205.43362,126.26106 223.19847,129.20972 257,147 289.86626,164.29803 313.01028,181.79967 336,213 345.7418,226.22101 356.03351,238.96689 366,252 378.07551,267.79105 389.36571,278.41942 407,289 417.57406,295.34443 427.83653,300.84763 439,306 449.8183,310.99306 456.46505,310.89535 469,310 494.92461,308.14824 516.46844,298.41966&#xd;&#xa;536,283"/>
+        <Button RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Margin="82,30,0,0" x:Name="button" VerticalAlignment="Top" Width="100" Height="56" Content="Button">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="1" ScaleY="1"/>
+                    <SkewTransform AngleX="0" AngleY="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform X="0" Y="0"/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+    </Grid>
+</Window>

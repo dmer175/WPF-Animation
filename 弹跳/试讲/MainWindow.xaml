@@ -1,0 +1,19 @@
+﻿<Window x:Class="试讲.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="600">
+    <Grid   Name="lay">
+        <Grid.Resources>
+            <PathGeometry x:Key="movepath" Figures = "M 0,50 c 500,-100 400 ,400,600,120"    >
+            </PathGeometry>
+        </Grid.Resources>
+        <Border Name="bod" Width="80" Height="80" CornerRadius="40"   Background="Aqua" VerticalAlignment="Top" MouseDown="bod_MouseDown" Margin="10,0,407,0">
+            <Border.RenderTransform>
+                <TranslateTransform X="0" Y="0" x:Name="tt" >     
+                </TranslateTransform>
+            </Border.RenderTransform>  
+            
+        </Border>
+        
+    </Grid>
+</Window>

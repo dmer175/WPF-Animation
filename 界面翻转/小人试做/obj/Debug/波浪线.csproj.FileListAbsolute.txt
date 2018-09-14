@@ -1,0 +1,13 @@
+D:\Myvs\小人试做\小人试做\obj\Debug\波浪线.csprojResolveAssemblyReference.cache
+D:\Myvs\小人试做\小人试做\obj\Debug\MainWindow.baml
+D:\Myvs\小人试做\小人试做\obj\Debug\MainWindow.g.cs
+D:\Myvs\小人试做\小人试做\obj\Debug\App.g.cs
+D:\Myvs\小人试做\小人试做\obj\Debug\小人试做_MarkupCompile.cache
+D:\Myvs\小人试做\小人试做\obj\Debug\小人试做.g.resources
+D:\Myvs\小人试做\小人试做\obj\Debug\小人试做.Properties.Resources.resources
+D:\Myvs\小人试做\小人试做\obj\Debug\波浪线.csproj.GenerateResource.Cache
+D:\Myvs\小人试做\小人试做\bin\Debug\小人试做.exe.config
+D:\Myvs\小人试做\小人试做\bin\Debug\小人试做.exe
+D:\Myvs\小人试做\小人试做\bin\Debug\小人试做.pdb
+D:\Myvs\小人试做\小人试做\obj\Debug\小人试做.exe
+D:\Myvs\小人试做\小人试做\obj\Debug\小人试做.pdb

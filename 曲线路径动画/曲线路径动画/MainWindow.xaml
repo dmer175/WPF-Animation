@@ -1,0 +1,18 @@
+﻿<Window x:Class="曲线路径动画.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="640" Width="600">
+    <Canvas>
+        <Path Fill="#FFFFFFFF" Stretch="Fill" Stroke="#FF000000" x:Name="path1" Width="213" Height="230.222"  Canvas.Left="187" Canvas.Top="241">
+            <Path.Data>
+                <PathGeometry>
+                    <PathFigure StartPoint="400,100">
+                        <BezierSegment Point1="400,200" Point2="800,100" Point3="800,200" />
+                    </PathFigure>
+                </PathGeometry>
+            </Path.Data>
+        </Path>
+        <Button x:Name="btn1" Width="109.5" Height="37" Content="Button" Click="btn1_Click" Canvas.Left="398" Canvas.Top="99"/>
+        <Border x:Name="border1" Width="77" Height="55" Canvas.Left="75" Canvas.Top="99" Background="#FF000000"/>
+    </Canvas>
+</Window>

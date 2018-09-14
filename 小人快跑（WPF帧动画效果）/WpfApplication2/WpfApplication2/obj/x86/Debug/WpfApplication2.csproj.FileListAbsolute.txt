@@ -1,0 +1,37 @@
+d:\我的文件\我的文档\Visual Studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\我的文件\我的文档\Visual Studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\MainWindow.baml
+d:\我的文件\我的文档\Visual Studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\MainWindow.g.cs
+d:\我的文件\我的文档\Visual Studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\App.g.cs
+d:\我的文件\我的文档\Visual Studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2_MarkupCompile.cache
+d:\我的文件\我的文档\Visual Studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.g.resources
+d:\我的文件\我的文档\Visual Studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.Properties.Resources.resources
+d:\我的文件\我的文档\Visual Studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\我的文件\我的文档\Visual Studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\我的文件\我的文档\Visual Studio 2010\Projects\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe
+d:\我的文件\我的文档\Visual Studio 2010\Projects\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.pdb
+d:\我的文件\我的文档\Visual Studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.exe
+d:\我的文件\我的文档\Visual Studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.pdb
+C:\Users\常祈\Desktop\WpfApplication2\小人快跑（WPF帧动画效果）\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.exe
+C:\Users\常祈\Desktop\WpfApplication2\小人快跑（WPF帧动画效果）\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.pdb
+C:\Users\常祈\Desktop\WpfApplication2\小人快跑（WPF帧动画效果）\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\常祈\Desktop\WpfApplication2\小人快跑（WPF帧动画效果）\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\常祈\Desktop\WpfApplication2\小人快跑（WPF帧动画效果）\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+C:\Users\常祈\Desktop\WpfApplication2\小人快跑（WPF帧动画效果）\WpfApplication2\WpfApplication2\obj\x86\Debug\MainWindow.baml
+C:\Users\常祈\Desktop\WpfApplication2\小人快跑（WPF帧动画效果）\WpfApplication2\WpfApplication2\obj\x86\Debug\MainWindow.g.cs
+C:\Users\常祈\Desktop\WpfApplication2\小人快跑（WPF帧动画效果）\WpfApplication2\WpfApplication2\obj\x86\Debug\App.g.cs
+C:\Users\常祈\Desktop\WpfApplication2\小人快跑（WPF帧动画效果）\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\常祈\Desktop\WpfApplication2\小人快跑（WPF帧动画效果）\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.g.resources
+C:\Users\常祈\Desktop\WpfApplication2\小人快跑（WPF帧动画效果）\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\常祈\Desktop\WpfApplication2\小人快跑（WPF帧动画效果）\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.csproj.GenerateResource.Cache
+D:\Myvs\小人快跑（WPF帧动画效果）\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.exe
+D:\Myvs\小人快跑（WPF帧动画效果）\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.pdb
+D:\Myvs\小人快跑（WPF帧动画效果）\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe
+D:\Myvs\小人快跑（WPF帧动画效果）\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.pdb
+D:\Myvs\小人快跑（WPF帧动画效果）\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+D:\Myvs\小人快跑（WPF帧动画效果）\WpfApplication2\WpfApplication2\obj\x86\Debug\MainWindow.baml
+D:\Myvs\小人快跑（WPF帧动画效果）\WpfApplication2\WpfApplication2\obj\x86\Debug\MainWindow.g.cs
+D:\Myvs\小人快跑（WPF帧动画效果）\WpfApplication2\WpfApplication2\obj\x86\Debug\App.g.cs
+D:\Myvs\小人快跑（WPF帧动画效果）\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2_MarkupCompile.cache
+D:\Myvs\小人快跑（WPF帧动画效果）\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.g.resources
+D:\Myvs\小人快跑（WPF帧动画效果）\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.Properties.Resources.resources
+D:\Myvs\小人快跑（WPF帧动画效果）\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.csproj.GenerateResource.Cache

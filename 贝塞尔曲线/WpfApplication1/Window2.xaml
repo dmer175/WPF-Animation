@@ -1,0 +1,17 @@
+﻿<Window x:Class="WpfApplication1.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Window2" Height="500" Width="500">
+    <Canvas Name="back">
+        <Path Stroke="DarkCyan"  StrokeThickness="50">
+            <Path.Data>
+                <PathGeometry>
+                    <!--声明贝塞尔曲线-->
+                    <PathFigure StartPoint="100,10">
+                        <BezierSegment Point1="10,30" Point2="-110,140" Point3="280,260"/>
+                    </PathFigure>
+                </PathGeometry>
+            </Path.Data>
+        </Path>
+    </Canvas>
+</Window>
